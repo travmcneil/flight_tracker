@@ -1,0 +1,59 @@
+
+{% extends "layout.html" %}
+{% block content %}
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+    <div class="container">
+    
+      <h1 class="display-3">Welcome to Flight Tracker</h1>
+</div><!-- /.jumbotron -->
+
+<nav>
+  <div class="nav nav-tabs" id="nav-tab" role="tablist">
+    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Home</a>
+    <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Graph</a>
+    <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Links</a>
+  </div>
+</nav>
+<div class="tab-content" id="nav-tabContent">
+  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+    <div class="card">
+      <div class="card-header">
+        Home
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">This will be the tab that you put in the flights you want to track</h5>
+        <p class="card-text">
+            From: <input type="text" id="from_text">
+            To: <input type="text" id="to_text">
+        </p>
+        <p id="text_info">
+          
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+    <div class="card">
+      <div class="card-header">
+        Graph
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Graph</h5>
+        <p>The graph will be here</p>
+      </div>
+    </div>
+  </div>
+  <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+    <div class="card">
+      <div class="card-header">
+        Links
+      </div>
+      <div class="card-body">
+        <p>The link to the website will be here</p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+

@@ -1,0 +1,1361 @@
+1610628935833	geckodriver	INFO	Listening on 127.0.0.1:49442
+1610634356098	geckodriver	INFO	Listening on 127.0.0.1:49833
+1610634680167	geckodriver	INFO	Listening on 127.0.0.1:49961
+1610634681173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileG4VzDj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610634683563	Marionette	INFO	Listening on port 49972
+1610634683665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1610634685579	Marionette	INFO	Stopped listening on port 49972
+1610634929766	geckodriver	INFO	Listening on 127.0.0.1:50090
+1610634930785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileAfdtMr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610634933004	Marionette	INFO	Listening on port 50103
+1610634933091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1610634934556	Marionette	INFO	Stopped listening on port 50103
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1610635042752	geckodriver	INFO	Listening on 127.0.0.1:50198
+1610635042762	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilesdZLRm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610635044827	Marionette	INFO	Listening on port 50203
+1610635044927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610635048115	Marionette	INFO	Stopped listening on port 50203
+1610635059592	geckodriver	INFO	Listening on 127.0.0.1:50295
+1610635059600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilerY6R50"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610635061682	Marionette	INFO	Listening on port 50300
+1610635061813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610635064783	Marionette	INFO	Stopped listening on port 50300
+1610635143361	geckodriver	INFO	Listening on 127.0.0.1:50396
+1610635144380	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileXKw1xS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610635146713	Marionette	INFO	Listening on port 50403
+1610635146802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610635150669	Marionette	INFO	Stopped listening on port 50403
+1610635300678	geckodriver	INFO	Listening on 127.0.0.1:50508
+1610635300686	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileSiboyF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610635302914	Marionette	INFO	Listening on port 50513
+1610635303003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610635303864	Marionette	INFO	Stopped listening on port 50513
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610635313615	geckodriver	INFO	Listening on 127.0.0.1:50570
+1610635313625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileEIuyn2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610635315705	Marionette	INFO	Listening on port 50575
+1610635315796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610635318198	Marionette	INFO	Stopped listening on port 50575
+1610635376945	geckodriver	INFO	Listening on 127.0.0.1:50657
+1610635376953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileQLTP2K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610635379012	Marionette	INFO	Listening on port 50662
+1610635379142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610635390608	Marionette	INFO	Stopped listening on port 50662
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610713739596	geckodriver	INFO	Listening on 127.0.0.1:59900
+1610713740613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileGwBZQ3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610713743316	Marionette	INFO	Listening on port 59911
+1610713743385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610713746136	Marionette	INFO	Stopped listening on port 59911
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610713758071	geckodriver	INFO	Listening on 127.0.0.1:60802
+1610713758082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileAo7DKc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610713760327	Marionette	INFO	Listening on port 60807
+1610713760374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610713761288	Marionette	INFO	Stopped listening on port 60807
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610713948210	geckodriver	INFO	Listening on 127.0.0.1:60294
+1610713948221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileXbNuKX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610713950393	Marionette	INFO	Listening on port 60299
+1610713950511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610713951487	Marionette	INFO	Stopped listening on port 60299
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610713976667	geckodriver	INFO	Listening on 127.0.0.1:63044
+1610713976678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileuGmMYR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610713978821	Marionette	INFO	Listening on port 63050
+1610713978854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610713979825	Marionette	INFO	Stopped listening on port 63050
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610714080777	geckodriver	INFO	Listening on 127.0.0.1:53754
+1610714080787	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilealVi7V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714082957	Marionette	INFO	Listening on port 53759
+1610714083071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714083899	Marionette	INFO	Stopped listening on port 53759
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1610714250559	geckodriver	INFO	Listening on 127.0.0.1:57224
+1610714250570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilek5ERA7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714252804	Marionette	INFO	Listening on port 57229
+1610714252858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714254075	Marionette	INFO	Stopped listening on port 57229
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610714289152	geckodriver	INFO	Listening on 127.0.0.1:57451
+1610714289162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileZXXrt5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714291367	Marionette	INFO	Listening on port 57456
+1610714291447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714292380	Marionette	INFO	Stopped listening on port 57456
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=2651829f4a21f49c5ca6bd2a929aa8289e422c06-updated-breakpoints&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1610714318070	geckodriver	INFO	Listening on 127.0.0.1:61340
+1610714318081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileQX6T90"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714320395	Marionette	INFO	Listening on port 61345
+1610714320469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714321329	Marionette	INFO	Stopped listening on port 61345
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=2651829f4a21f49c5ca6bd2a929aa8289e422c06-updated-breakpoints&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+1610714377930	geckodriver	INFO	Listening on 127.0.0.1:63352
+1610714377940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileG9ykg9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714380102	Marionette	INFO	Listening on port 63357
+1610714380212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714381116	Marionette	INFO	Stopped listening on port 63357
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610714400180	geckodriver	INFO	Listening on 127.0.0.1:63520
+1610714400191	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileyAEUem"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714402331	Marionette	INFO	Listening on port 63525
+1610714402442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714403358	Marionette	INFO	Stopped listening on port 63525
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+1610714495685	geckodriver	INFO	Listening on 127.0.0.1:53021
+1610714495694	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileeogTHL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714497861	Marionette	INFO	Listening on port 53026
+1610714497956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714499244	Marionette	INFO	Stopped listening on port 53026
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610714560796	geckodriver	INFO	Listening on 127.0.0.1:59975
+1610714560807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileJhhMl8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714563021	Marionette	INFO	Listening on port 59980
+1610714563122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714564098	Marionette	INFO	Stopped listening on port 59980
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=2651829f4a21f49c5ca6bd2a929aa8289e422c06-updated-breakpoints&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1610714591610	geckodriver	INFO	Listening on 127.0.0.1:62977
+1610714591621	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileQdLKh3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714593766	Marionette	INFO	Listening on port 62984
+1610714593822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714598963	Marionette	INFO	Stopped listening on port 62984
+1610714613839	geckodriver	INFO	Listening on 127.0.0.1:63776
+1610714613850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileB77Et0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714616038	Marionette	INFO	Listening on port 63781
+1610714616136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714622024	Marionette	INFO	Stopped listening on port 63781
+1610714637403	geckodriver	INFO	Listening on 127.0.0.1:64089
+1610714637413	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilel1UQHd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714639580	Marionette	INFO	Listening on port 64094
+1610714639695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714670966	Marionette	INFO	Stopped listening on port 64094
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610714696874	geckodriver	INFO	Listening on 127.0.0.1:52739
+1610714696885	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile9YFQpU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714699062	Marionette	INFO	Listening on port 52744
+1610714699178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714710333	Marionette	INFO	Stopped listening on port 52744
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610714722062	geckodriver	INFO	Listening on 127.0.0.1:54005
+1610714722073	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilebDrJ2u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714724184	Marionette	INFO	Listening on port 54010
+1610714724282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714735951	Marionette	INFO	Stopped listening on port 54010
+1610714851709	geckodriver	INFO	Listening on 127.0.0.1:51172
+1610714851719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileXSoGv6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714854134	Marionette	INFO	Listening on port 51178
+1610714854215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714858695	Marionette	INFO	Stopped listening on port 51178
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610714899961	geckodriver	INFO	Listening on 127.0.0.1:56508
+1610714899969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileMuUs6K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714902316	Marionette	INFO	Listening on port 56514
+1610714902368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714906430	Marionette	INFO	Stopped listening on port 56514
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610714967829	geckodriver	INFO	Listening on 127.0.0.1:62211
+1610714967839	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilesVzcdt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610714970028	Marionette	INFO	Listening on port 62216
+1610714970122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610714973990	Marionette	INFO	Stopped listening on port 62216
+1610716188850	geckodriver	INFO	Listening on 127.0.0.1:52854
+1610716189857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileoHPMmW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610716192070	Marionette	INFO	Listening on port 52896
+1610716192153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://selenium-python-zh.readthedocs.io/en/latest/, line 403: ReferenceError: SphinxRtdTheme is not defined
+1610716199887	Marionette	INFO	Stopped listening on port 52896
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610716254042	geckodriver	INFO	Listening on 127.0.0.1:57345
+1610716254052	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileSUVtps"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610716256304	Marionette	INFO	Listening on port 57350
+1610716256415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610716263929	Marionette	INFO	Stopped listening on port 57350
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1610716283314	geckodriver	INFO	Listening on 127.0.0.1:57858
+1610716283323	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile5xOKsc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610716285544	Marionette	INFO	Listening on port 57863
+1610716285615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610716291755	Marionette	INFO	Stopped listening on port 57863
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610716424005	geckodriver	INFO	Listening on 127.0.0.1:63748
+1610716424016	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileBvzJr0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610716426338	Marionette	INFO	Listening on port 63760
+1610716426413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610716431101	Marionette	INFO	Stopped listening on port 63760
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+1610716457065	geckodriver	INFO	Listening on 127.0.0.1:49691
+1610716457074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile83dQ29"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610716459227	Marionette	INFO	Listening on port 49696
+1610716459249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610716470628	Marionette	INFO	Stopped listening on port 49696
+1610716526328	geckodriver	INFO	Listening on 127.0.0.1:50074
+1610716526336	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilevurRcV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610716528747	Marionette	INFO	Listening on port 50079
+1610716528821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610716536658	Marionette	INFO	Stopped listening on port 50079
+1610716602551	geckodriver	INFO	Listening on 127.0.0.1:53277
+1610716602559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileoUVwHr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610716604868	Marionette	INFO	Listening on port 53282
+1610716605005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=17c362dabf9440ce2a53d187439c01e66bbd79b3-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610716612995	Marionette	INFO	Stopped listening on port 53282
+1610716633047	geckodriver	INFO	Listening on 127.0.0.1:55956
+1610716633057	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileZy9Q62"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610716635435	Marionette	INFO	Listening on port 55961
+1610716635555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610716644452	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610716647671	Marionette	INFO	Stopped listening on port 55961
+1610725429157	geckodriver	INFO	Listening on 127.0.0.1:62165
+1610725429895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileUKsLw4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725432703	Marionette	INFO	Listening on port 62182
+1610725432769	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610725486660	Marionette	INFO	Stopped listening on port 62182
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610725521898	geckodriver	INFO	Listening on 127.0.0.1:62252
+1610725521907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilen9JW6y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725524727	Marionette	INFO	Listening on port 62261
+1610725524786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1610725535593	Marionette	INFO	Stopped listening on port 62261
+1610725589720	geckodriver	INFO	Listening on 127.0.0.1:62394
+1610725589731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileI3b1Fa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725591863	Marionette	INFO	Listening on port 62403
+1610725591911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=b08bb865a4de3f5dab5dd18433b411ebbe89e952-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=b08bb865a4de3f5dab5dd18433b411ebbe89e952-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=b08bb865a4de3f5dab5dd18433b411ebbe89e952-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=b08bb865a4de3f5dab5dd18433b411ebbe89e952-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=b08bb865a4de3f5dab5dd18433b411ebbe89e952-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=b08bb865a4de3f5dab5dd18433b411ebbe89e952-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=b08bb865a4de3f5dab5dd18433b411ebbe89e952-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610725603013	Marionette	INFO	Stopped listening on port 62403
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/customhighlighter763, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:392:23\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1707:21\nCanCloseWindow@chrome://browser/content/browser.js:8046:36\ncanClose@chrome://browser/content/browser.js:6405:12\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3602:20\ndespatch@chrome://marionette/content/server.js:297:40\nexecute@chrome://marionette/content/server.js:267:16\nonPacket/<@chrome://marionette/content/server.js:240:20\nonPacket@chrome://marionette/content/server.js:241:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/customhighlighter763, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:443:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:686:16\nflushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:2379:7\nssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.jsm:2297:32\ntrigger@resource://gre/modules/AsyncShutdown.jsm:745:23\n_wait@resource://gre/modules/AsyncShutdown.jsm:897:15\nwait@resource://gre/modules/AsyncShutdown.jsm:878:34\nobserve@resource://gre/modules/AsyncShutdown.jsm:555:10\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3602:20\ndespatch@chrome://marionette/content/server.js:297:40\nexecute@chrome://marionette/content/server.js:267:16\nonPacket/<@chrome://marionette/content/server.js:240:20\nonPacket@chrome://marionette/content/server.js:241:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n", "resource://devtools/shared/protocol/Front.js", 99))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610725615199	geckodriver	INFO	Listening on 127.0.0.1:62514
+1610725615210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileeSOesv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725617205	Marionette	INFO	Listening on port 62523
+1610725617283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1610725621713	Marionette	INFO	Stopped listening on port 62523
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610725631820	geckodriver	INFO	Listening on 127.0.0.1:62623
+1610725631831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilecGiHan"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725633914	Marionette	INFO	Listening on port 62632
+1610725634020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=cf28578f204354ac840994996b216d2f31031a18-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=cf28578f204354ac840994996b216d2f31031a18-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=cf28578f204354ac840994996b216d2f31031a18-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=cf28578f204354ac840994996b216d2f31031a18-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=cf28578f204354ac840994996b216d2f31031a18-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=cf28578f204354ac840994996b216d2f31031a18-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=cf28578f204354ac840994996b216d2f31031a18-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610725642416	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610725672632	Marionette	INFO	Stopped listening on port 62632
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/customhighlighter830, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:443:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:686:16\nflushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:2379:7\nssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.jsm:2297:32\ntrigger@resource://gre/modules/AsyncShutdown.jsm:745:23\n_wait@resource://gre/modules/AsyncShutdown.jsm:897:15\nwait@resource://gre/modules/AsyncShutdown.jsm:878:34\nobserve@resource://gre/modules/AsyncShutdown.jsm:555:10\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3602:20\ndespatch@chrome://marionette/content/server.js:297:40\nexecute@chrome://marionette/content/server.js:267:16\nonPacket/<@chrome://marionette/content/server.js:240:20\nonPacket@chrome://marionette/content/server.js:241:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n", "resource://devtools/shared/protocol/Front.js", 99))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610725685071	geckodriver	INFO	Listening on 127.0.0.1:62753
+1610725685081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile7O6MDC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725687122	Marionette	INFO	Listening on port 62762
+1610725687154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610725724983	Marionette	INFO	Stopped listening on port 62762
+1610725736236	geckodriver	INFO	Listening on 127.0.0.1:62922
+1610725736249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofiled5Ardo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725738431	Marionette	INFO	Listening on port 62931
+1610725739798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=c8391278c5afdaa85311e77173923c3c31ae61a0-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=c8391278c5afdaa85311e77173923c3c31ae61a0-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=c8391278c5afdaa85311e77173923c3c31ae61a0-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=c8391278c5afdaa85311e77173923c3c31ae61a0-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=c8391278c5afdaa85311e77173923c3c31ae61a0-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=c8391278c5afdaa85311e77173923c3c31ae61a0-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=c8391278c5afdaa85311e77173923c3c31ae61a0-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610725750889	Marionette	INFO	Stopped listening on port 62931
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610725887056	geckodriver	INFO	Listening on 127.0.0.1:63088
+1610725887066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileeap0hm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725889105	Marionette	INFO	Listening on port 63097
+1610725889222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=1f7b7b2e3c5199785240d22958fa2ad5877522b4-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=1f7b7b2e3c5199785240d22958fa2ad5877522b4-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=1f7b7b2e3c5199785240d22958fa2ad5877522b4-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=1f7b7b2e3c5199785240d22958fa2ad5877522b4-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=1f7b7b2e3c5199785240d22958fa2ad5877522b4-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=1f7b7b2e3c5199785240d22958fa2ad5877522b4-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=1f7b7b2e3c5199785240d22958fa2ad5877522b4-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610725900394	Marionette	INFO	Stopped listening on port 63097
+1610725962902	geckodriver	INFO	Listening on 127.0.0.1:63211
+1610725962913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileqW4X5Z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725965291	Marionette	INFO	Listening on port 63220
+1610725965380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=ba53b1875dc3b60175fe0963a3ef4da2c7496029-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=ba53b1875dc3b60175fe0963a3ef4da2c7496029-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=ba53b1875dc3b60175fe0963a3ef4da2c7496029-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=ba53b1875dc3b60175fe0963a3ef4da2c7496029-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=ba53b1875dc3b60175fe0963a3ef4da2c7496029-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=ba53b1875dc3b60175fe0963a3ef4da2c7496029-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=ba53b1875dc3b60175fe0963a3ef4da2c7496029-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610725976646	Marionette	INFO	Stopped listening on port 63220
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610725994585	geckodriver	INFO	Listening on 127.0.0.1:63343
+1610725994595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileqoFssv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610725996708	Marionette	INFO	Listening on port 63352
+1610725996770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610726001889	Marionette	INFO	Stopped listening on port 63352
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610726019125	geckodriver	INFO	Listening on 127.0.0.1:63455
+1610726019135	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileOpfO0E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610726021212	Marionette	INFO	Listening on port 63464
+1610726021300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610726027097	Marionette	INFO	Stopped listening on port 63464
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610741786394	geckodriver	INFO	Listening on 127.0.0.1:63755
+1610741787406	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileLvTxIP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610741789761	Marionette	INFO	Listening on port 63766
+1610741789882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610741803971	Marionette	INFO	Stopped listening on port 63766
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+1610742088682	geckodriver	INFO	Listening on 127.0.0.1:63928
+1610742088693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile2ZZWtv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610742090703	Marionette	INFO	Listening on port 63937
+1610742090753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=d5aa88b3ce549a91ec26b2691ebbcf0be36f9ec6-updated-breakpoints&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610742113875	Marionette	INFO	Stopped listening on port 63937
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610742558076	geckodriver	INFO	Listening on 127.0.0.1:64114
+1610742558085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileO3uh33"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610742560127	Marionette	INFO	Listening on port 64123
+1610742560234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610742604469	Marionette	INFO	Stopped listening on port 64123
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610742612128	geckodriver	INFO	Listening on 127.0.0.1:64231
+1610742612139	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilesohh49"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610742614184	Marionette	INFO	Listening on port 64240
+1610742614206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=34040dc8beb29cae9d5f692b97fb09445abcc1ed-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=34040dc8beb29cae9d5f692b97fb09445abcc1ed-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=34040dc8beb29cae9d5f692b97fb09445abcc1ed-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=34040dc8beb29cae9d5f692b97fb09445abcc1ed-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=34040dc8beb29cae9d5f692b97fb09445abcc1ed-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=34040dc8beb29cae9d5f692b97fb09445abcc1ed-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=34040dc8beb29cae9d5f692b97fb09445abcc1ed-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610742664505	Marionette	INFO	Stopped listening on port 64240
+1610742698169	geckodriver	INFO	Listening on 127.0.0.1:64350
+1610742698180	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileYTjOiw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610742700156	Marionette	INFO	Listening on port 64359
+1610742700266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=34040dc8beb29cae9d5f692b97fb09445abcc1ed-updated-breakpoints&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610742710059	Marionette	INFO	Stopped listening on port 64359
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=2651829f4a21f49c5ca6bd2a929aa8289e422c06-updated-breakpoints&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=2651829f4a21f49c5ca6bd2a929aa8289e422c06-updated-breakpoints&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610742742986	geckodriver	INFO	Listening on 127.0.0.1:64469
+1610742742995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilegfgmlp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610742745165	Marionette	INFO	Listening on port 64478
+1610742745263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=90140d06c9081a03e08a16f8d67bd2b7700df7e9-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=90140d06c9081a03e08a16f8d67bd2b7700df7e9-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=90140d06c9081a03e08a16f8d67bd2b7700df7e9-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=90140d06c9081a03e08a16f8d67bd2b7700df7e9-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=90140d06c9081a03e08a16f8d67bd2b7700df7e9-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=90140d06c9081a03e08a16f8d67bd2b7700df7e9-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=90140d06c9081a03e08a16f8d67bd2b7700df7e9-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610742785738	Marionette	INFO	Stopped listening on port 64478
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610742811297	geckodriver	INFO	Listening on 127.0.0.1:64592
+1610742811308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilepCjaWm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610742813274	Marionette	INFO	Listening on port 64601
+1610742813388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=5067e1b1d447cf31384b83c6a778dc98373ba31b-updated-breakpoints&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610742830625	Marionette	INFO	Stopped listening on port 64601
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610742879417	geckodriver	INFO	Listening on 127.0.0.1:64718
+1610742879428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilege7IiC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610742881505	Marionette	INFO	Listening on port 64727
+1610742881612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610742889615	Marionette	INFO	Stopped listening on port 64727
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610742934967	geckodriver	INFO	Listening on 127.0.0.1:64839
+1610742934977	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile3VjB6N"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610742937085	Marionette	INFO	Listening on port 64848
+1610742937152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=18cd4ae46f9d704ce84c278b96b4fc0fa4d1e4da-updated-breakpoints&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610742945019	Marionette	INFO	Stopped listening on port 64848
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610742999858	geckodriver	INFO	Listening on 127.0.0.1:64965
+1610742999868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileWKCNaH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610743002152	Marionette	INFO	Listening on port 64974
+1610743002244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=e975d0cbf6b322bf300d9fb7f27f66911feb3fac-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610743012403	Marionette	INFO	Stopped listening on port 64974
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+1610743026656	geckodriver	INFO	Listening on 127.0.0.1:65091
+1610743026666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilefr1iwK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610743028705	Marionette	INFO	Listening on port 65100
+1610743028765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.r9cdn.net/res/combined.js?v=c033789a2d956051d9eb4aa6f52a084d932a13e9-exclude-keel-globals&cluster=4, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1610743039550	Marionette	INFO	Stopped listening on port 65100
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://content.r9cdn.net/res/combined.js?v=56a5b5f0b55f275a349a6a945a666f5c013f20b8-exclude-keel-globals&cluster=4, line 76: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610750915635	geckodriver	INFO	Listening on 127.0.0.1:49260
+1610750915645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileB1Ha89"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610750917666	Marionette	INFO	Listening on port 49269
+1610750917743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610750926141	Marionette	INFO	Stopped listening on port 49269
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1610750998063	geckodriver	INFO	Listening on 127.0.0.1:49782
+1610750998072	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileoCX87L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751000144	Marionette	INFO	Listening on port 49791
+1610751000248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751013869	Marionette	INFO	Stopped listening on port 49791
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751069273	geckodriver	INFO	Listening on 127.0.0.1:50227
+1610751069284	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilelOXr6G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751071290	Marionette	INFO	Listening on port 50236
+1610751071369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751085655	Marionette	INFO	Stopped listening on port 50236
+1610751103573	geckodriver	INFO	Listening on 127.0.0.1:50511
+1610751103583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilev3g1XH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751105594	Marionette	INFO	Listening on port 50520
+1610751105670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751116464	Marionette	INFO	Stopped listening on port 50520
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751160687	geckodriver	INFO	Listening on 127.0.0.1:50894
+1610751160698	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilejyWNs5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751162646	Marionette	INFO	Listening on port 50903
+1610751162761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751177085	Marionette	INFO	Stopped listening on port 50903
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751246572	geckodriver	INFO	Listening on 127.0.0.1:51401
+1610751246583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileJ62Xj1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751248612	Marionette	INFO	Listening on port 51410
+1610751248648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751259792	Marionette	INFO	Stopped listening on port 51410
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751292789	geckodriver	INFO	Listening on 127.0.0.1:51742
+1610751292799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileZzhYIl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751294884	Marionette	INFO	Listening on port 51751
+1610751294976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751310406	Marionette	INFO	Stopped listening on port 51751
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751343254	geckodriver	INFO	Listening on 127.0.0.1:52094
+1610751343264	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilerXJus3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751345290	Marionette	INFO	Listening on port 52103
+1610751345340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751382582	Marionette	INFO	Stopped listening on port 52103
+1610751388761	geckodriver	INFO	Listening on 127.0.0.1:52421
+1610751388772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileFSJaI6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751390832	Marionette	INFO	Listening on port 52430
+1610751390959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751429702	Marionette	INFO	Stopped listening on port 52430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751488565	geckodriver	INFO	Listening on 127.0.0.1:52980
+1610751488577	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileyBmQcM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751490760	Marionette	INFO	Listening on port 52989
+1610751490882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751498213	Marionette	INFO	Stopped listening on port 52989
+1610751509771	geckodriver	INFO	Listening on 127.0.0.1:53218
+1610751509782	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilehOEfLu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751512051	Marionette	INFO	Listening on port 53227
+1610751512262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751552810	Marionette	INFO	Stopped listening on port 53227
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751728325	geckodriver	INFO	Listening on 127.0.0.1:54286
+1610751728333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilexJW1c7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751730445	Marionette	INFO	Listening on port 54295
+1610751730510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751737932	Marionette	INFO	Stopped listening on port 54295
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751787412	geckodriver	INFO	Listening on 127.0.0.1:54680
+1610751787421	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileGB1WH4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751789579	Marionette	INFO	Listening on port 54689
+1610751789723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751797551	Marionette	INFO	Stopped listening on port 54689
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751820543	geckodriver	INFO	Listening on 127.0.0.1:54959
+1610751820552	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileJezVzP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751822687	Marionette	INFO	Listening on port 54968
+1610751822735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751831221	Marionette	INFO	Stopped listening on port 54968
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751844640	geckodriver	INFO	Listening on 127.0.0.1:55211
+1610751844650	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileD7h6iL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751846673	Marionette	INFO	Listening on port 55220
+1610751846713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751853590	Marionette	INFO	Stopped listening on port 55220
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751868704	geckodriver	INFO	Listening on 127.0.0.1:55457
+1610751868715	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileIYOmsP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751870829	Marionette	INFO	Listening on port 55466
+1610751870917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751879004	Marionette	INFO	Stopped listening on port 55466
+1610751916200	geckodriver	INFO	Listening on 127.0.0.1:55808
+1610751916211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile9mw5Yq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751918297	Marionette	INFO	Listening on port 55818
+1610751918402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751926284	Marionette	INFO	Stopped listening on port 55818
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751949835	geckodriver	INFO	Listening on 127.0.0.1:56100
+1610751949845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileKhqeuZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751951862	Marionette	INFO	Listening on port 56109
+1610751951913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751959312	Marionette	INFO	Stopped listening on port 56109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610751977297	geckodriver	INFO	Listening on 127.0.0.1:56353
+1610751977305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileaUchMe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610751979403	Marionette	INFO	Listening on port 56362
+1610751979481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610751986829	Marionette	INFO	Stopped listening on port 56362
+1610752232666	geckodriver	INFO	Listening on 127.0.0.1:57548
+1610752232676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilegxao0n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610752234640	Marionette	INFO	Listening on port 57557
+1610752234792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610752241850	Marionette	INFO	Stopped listening on port 57557
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610752259202	geckodriver	INFO	Listening on 127.0.0.1:57815
+1610752259212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileSOLI6i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610752261261	Marionette	INFO	Listening on port 57824
+1610752261381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610752270703	Marionette	INFO	Stopped listening on port 57824
+1610914467965	geckodriver	INFO	Listening on 127.0.0.1:56722
+1610914468971	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileHp31g0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610914471555	Marionette	INFO	Listening on port 56733
+1610914471667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610914478813	Marionette	INFO	Stopped listening on port 56733
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610914618455	geckodriver	INFO	Listening on 127.0.0.1:56939
+1610914618467	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileW87lyz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610914620374	Marionette	INFO	Listening on port 56948
+1610914620449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610914627072	Marionette	INFO	Stopped listening on port 56948
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610915017525	geckodriver	INFO	Listening on 127.0.0.1:57434
+1610915017537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile8q0NSR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915019657	Marionette	INFO	Listening on port 57443
+1610915019724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610915057234	Marionette	INFO	Stopped listening on port 57443
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610915062387	geckodriver	INFO	Listening on 127.0.0.1:57771
+1610915062395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileEyFvbr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915064514	Marionette	INFO	Listening on port 57780
+1610915064559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610915104524	Marionette	INFO	Stopped listening on port 57780
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610915234299	geckodriver	INFO	Listening on 127.0.0.1:58642
+1610915234307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile4NCxCj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915236382	Marionette	INFO	Listening on port 58651
+1610915236473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610915274734	Marionette	INFO	Stopped listening on port 58651
+1610915396697	geckodriver	INFO	Listening on 127.0.0.1:59452
+1610915396705	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilejxFrLr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915399052	Marionette	INFO	Listening on port 59461
+1610915399192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1610915432714	geckodriver	INFO	Listening on 127.0.0.1:59742
+1610915432725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileJhIKlw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915434811	Marionette	INFO	Listening on port 59751
+1610915435996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610915476659	Marionette	INFO	Stopped listening on port 59751
+1610915604189	geckodriver	INFO	Listening on 127.0.0.1:60595
+1610915605199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilervQwnC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915607622	Marionette	INFO	Listening on port 60610
+1610915607714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610915616997	Marionette	INFO	Stopped listening on port 60610
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610915635595	geckodriver	INFO	Listening on 127.0.0.1:60884
+1610915635606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile8h4VKZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915637755	Marionette	INFO	Listening on port 60893
+1610915637864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610915651093	Marionette	INFO	Stopped listening on port 60893
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610915741523	geckodriver	INFO	Listening on 127.0.0.1:61468
+1610915741531	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileqmn2bS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915743519	Marionette	INFO	Listening on port 61477
+1610915743627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610915759077	Marionette	INFO	Stopped listening on port 61477
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610915836786	geckodriver	INFO	Listening on 127.0.0.1:61997
+1610915836796	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile707v5c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915839003	Marionette	INFO	Listening on port 62006
+1610915839070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610915850791	Marionette	INFO	Stopped listening on port 62006
+1610915910888	geckodriver	INFO	Listening on 127.0.0.1:62445
+1610915910899	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileEl427g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610915912996	Marionette	INFO	Listening on port 62454
+1610915913063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610915925237	Marionette	INFO	Stopped listening on port 62454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610916183839	geckodriver	INFO	Listening on 127.0.0.1:63721
+1610916184851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileFmIQY5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610916187332	Marionette	INFO	Listening on port 63736
+1610916187452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610916197406	Marionette	INFO	Stopped listening on port 63736
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610916304293	geckodriver	INFO	Listening on 127.0.0.1:64375
+1610916304303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile6iQxUU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610916306485	Marionette	INFO	Listening on port 64384
+1610916306571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610916316404	Marionette	INFO	Stopped listening on port 64384
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610916600733	geckodriver	INFO	Listening on 127.0.0.1:49480
+1610916601745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile0vxG16"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610916604019	Marionette	INFO	Listening on port 49495
+1610916604115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610916613656	Marionette	INFO	Stopped listening on port 49495
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610916660309	geckodriver	INFO	Listening on 127.0.0.1:49880
+1610916660318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilebANwB4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610916662590	Marionette	INFO	Listening on port 49889
+1610916662702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610916672008	Marionette	INFO	Stopped listening on port 49889
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610916702784	geckodriver	INFO	Listening on 127.0.0.1:50212
+1610916702792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileEjxbrV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610916704854	Marionette	INFO	Listening on port 50221
+1610916704958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610916715265	Marionette	INFO	Stopped listening on port 50221
+1610916756286	geckodriver	INFO	Listening on 127.0.0.1:50575
+1610916756294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileyrC8ZG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610916758360	Marionette	INFO	Listening on port 50584
+1610916758453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610916767492	Marionette	INFO	Stopped listening on port 50584
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610916786547	geckodriver	INFO	Listening on 127.0.0.1:50843
+1610916786556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilewR3yzw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610916788746	Marionette	INFO	Listening on port 50852
+1610916788818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610916801971	Marionette	INFO	Stopped listening on port 50852
+1610917071831	geckodriver	INFO	Listening on 127.0.0.1:52181
+1610917071842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilereMJl8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917073929	Marionette	INFO	Listening on port 52190
+1610917074020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917086813	Marionette	INFO	Stopped listening on port 52190
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610917106044	geckodriver	INFO	Listening on 127.0.0.1:52477
+1610917106051	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileA5PY6O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917108306	Marionette	INFO	Listening on port 52486
+1610917108349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917120846	Marionette	INFO	Stopped listening on port 52486
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610917156180	geckodriver	INFO	Listening on 127.0.0.1:52836
+1610917156188	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile7s83fF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917158296	Marionette	INFO	Listening on port 52845
+1610917158368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917170685	Marionette	INFO	Stopped listening on port 52845
+1610917216317	geckodriver	INFO	Listening on 127.0.0.1:53238
+1610917216328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileVUusib"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917218584	Marionette	INFO	Listening on port 53247
+1610917218709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917228923	Marionette	INFO	Stopped listening on port 53247
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610917445176	geckodriver	INFO	Listening on 127.0.0.1:54336
+1610917445184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileHLqHXk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917447285	Marionette	INFO	Listening on port 54345
+1610917447372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917457274	Marionette	INFO	Stopped listening on port 54345
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610917501368	geckodriver	INFO	Listening on 127.0.0.1:54709
+1610917501377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilefT95YI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917503598	Marionette	INFO	Listening on port 54718
+1610917503655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917516428	Marionette	INFO	Stopped listening on port 54718
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610917593871	geckodriver	INFO	Listening on 127.0.0.1:55246
+1610917593880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilesD8zr3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917595911	Marionette	INFO	Listening on port 55255
+1610917595942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917609312	Marionette	INFO	Stopped listening on port 55255
+1610917625473	geckodriver	INFO	Listening on 127.0.0.1:55518
+1610917625481	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileBU7uQ7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917627561	Marionette	INFO	Listening on port 55527
+1610917627655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917642327	Marionette	INFO	Stopped listening on port 55527
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610917738633	geckodriver	INFO	Listening on 127.0.0.1:56161
+1610917738642	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileC003AJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917740728	Marionette	INFO	Listening on port 56170
+1610917740827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917753325	Marionette	INFO	Stopped listening on port 56170
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610917781066	geckodriver	INFO	Listening on 127.0.0.1:56489
+1610917781074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile3YqhGj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610917783165	Marionette	INFO	Listening on port 56498
+1610917783257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610917796710	Marionette	INFO	Stopped listening on port 56498
+1610976248185	geckodriver	INFO	Listening on 127.0.0.1:60553
+1610976249196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilewPsk6Z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610976252398	Marionette	INFO	Listening on port 60568
+1610976252493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610976265168	Marionette	INFO	Stopped listening on port 60568
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610976436619	geckodriver	INFO	Listening on 127.0.0.1:61503
+1610976436633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileGmQ51O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610976439134	Marionette	INFO	Listening on port 61512
+1610976439233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610976447193	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610976462824	Marionette	INFO	Stopped listening on port 61512
+1610976505665	geckodriver	INFO	Listening on 127.0.0.1:61930
+1610976505676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileUFBkzs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610976507762	Marionette	INFO	Listening on port 61939
+1610976507854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610976558828	Marionette	INFO	Stopped listening on port 61939
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610976680297	geckodriver	INFO	Listening on 127.0.0.1:62801
+1610976680308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile9SO7rz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610976682362	Marionette	INFO	Listening on port 62810
+1610976682462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610976691014	Marionette	INFO	Stopped listening on port 62810
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610976724269	geckodriver	INFO	Listening on 127.0.0.1:63131
+1610976724280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileXZexeO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610976726476	Marionette	INFO	Listening on port 63140
+1610976726542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610976735213	Marionette	INFO	Stopped listening on port 63140
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610976870688	geckodriver	INFO	Listening on 127.0.0.1:63883
+1610976870699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileUsCAHD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610976872798	Marionette	INFO	Listening on port 63892
+1610976872875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610976881392	Marionette	INFO	Stopped listening on port 63892
+1610976949729	geckodriver	INFO	Listening on 127.0.0.1:64351
+1610976949737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileCgDowL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610976951853	Marionette	INFO	Listening on port 64360
+1610976951905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610976960302	Marionette	INFO	Stopped listening on port 64360
+1610977014930	geckodriver	INFO	Listening on 127.0.0.1:64768
+1610977014941	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilepfsscs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610977016937	Marionette	INFO	Listening on port 64777
+1610977017035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610977025239	Marionette	INFO	Stopped listening on port 64777
+1610977101833	geckodriver	INFO	Listening on 127.0.0.1:65269
+1610977101983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileSameMU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610977103990	Marionette	INFO	Listening on port 65278
+1610977104084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610977112442	Marionette	INFO	Stopped listening on port 65278
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610977705786	geckodriver	INFO	Listening on 127.0.0.1:51365
+1610977705814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileCfM9Ye"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610977708267	Marionette	INFO	Listening on port 51374
+1610977708403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610977747672	Marionette	INFO	Stopped listening on port 51374
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610978020945	geckodriver	INFO	Listening on 127.0.0.1:52861
+1610978021957	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileQvB3L4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610978024414	Marionette	INFO	Listening on port 52876
+1610978024447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610978070667	Marionette	INFO	Stopped listening on port 52876
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610978269984	geckodriver	INFO	Listening on 127.0.0.1:54062
+1610978270998	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileXY2iE3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610978273436	Marionette	INFO	Listening on port 54077
+1610978273467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610978296090	Marionette	INFO	Stopped listening on port 54077
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610978391020	geckodriver	INFO	Listening on 127.0.0.1:54712
+1610978391030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileqyaYhz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610978393166	Marionette	INFO	Listening on port 54721
+1610978393213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610978427116	Marionette	INFO	Stopped listening on port 54721
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610978508308	geckodriver	INFO	Listening on 127.0.0.1:55332
+1610978508318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileX2kIg0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610978510461	Marionette	INFO	Listening on port 55341
+1610978510529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610978536349	Marionette	INFO	Stopped listening on port 55341
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610978600195	geckodriver	INFO	Listening on 127.0.0.1:55851
+1610978600205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilelzdvzo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610978602688	Marionette	INFO	Listening on port 55860
+1610978602748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1610978629267	Marionette	INFO	Stopped listening on port 55860
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611006592292	geckodriver	INFO	Listening on 127.0.0.1:60645
+1611006593303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile1dwwyB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611006595900	Marionette	INFO	Listening on port 60660
+1611006595996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1611006628215	Marionette	INFO	Stopped listening on port 60660
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611006756523	geckodriver	INFO	Listening on 127.0.0.1:61474
+1611006756533	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilen9wwyF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611006758541	Marionette	INFO	Listening on port 61483
+1611006758605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1611006776376	Marionette	INFO	Stopped listening on port 61483
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611006799378	geckodriver	INFO	Listening on 127.0.0.1:61803
+1611006799388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileEgigc8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611006801444	Marionette	INFO	Listening on port 61812
+1611006801550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1611006819739	Marionette	INFO	Stopped listening on port 61812
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611006887660	geckodriver	INFO	Listening on 127.0.0.1:62310
+1611006887670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofilexBxm4A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611006889690	Marionette	INFO	Listening on port 62319
+1611006889766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1611006917449	Marionette	INFO	Stopped listening on port 62319
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611006987798	geckodriver	INFO	Listening on 127.0.0.1:62866
+1611006987808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileFoI9Pu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611006989827	Marionette	INFO	Listening on port 62875
+1611006989865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1611007011994	Marionette	INFO	Stopped listening on port 62875
+1611007045034	geckodriver	INFO	Listening on 127.0.0.1:63264
+1611007045048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile8zW5SH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611007047117	Marionette	INFO	Listening on port 63273
+1611007047230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1611007064722	Marionette	INFO	Stopped listening on port 63273
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611007166941	geckodriver	INFO	Listening on 127.0.0.1:63926
+1611007166956	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofileE9mbDU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611007169034	Marionette	INFO	Listening on port 63935
+1611007169116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1611007184451	Marionette	INFO	Stopped listening on port 63935
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611012574379	geckodriver	INFO	Listening on 127.0.0.1:51609
+1611012574387	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kr/nt83zdfs47jg03h824bgyz1h0000gn/T/rust_mozprofile2zj6Tk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611012576504	Marionette	INFO	Listening on port 51618
+1611012576584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+JavaScript warning: https://tms.delta.com/delta/dl_anderson/Bootstrap.js, line 1457: unreachable code after return statement
+1611012594824	Marionette	INFO	Stopped listening on port 51618
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
